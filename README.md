@@ -11,7 +11,7 @@ A set of PNG files wrapped in Apple .icns file format suitable for using as a th
 **Initial Setup of OpenCanopy**<br>
 Please refer to [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui) at dortania.
 
-**PickerAttributes**
+**PickerAttributes**<br>
 To enjoy OpenCore's [flavour](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md) system edit your config.plist and set PickerAttributes to 144.
 
 ```
